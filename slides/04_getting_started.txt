@@ -1,0 +1,26 @@
+// centre vcentre
+
+/*
+% Simple Blessed example
+*/
+
+// var blessed = require('blessed')
+var blessed = require('../blessed')
+
+var screen = blessed.screen({
+  smartCSR: true,
+})
+
+var box = blessed.box({
+  width: '100%',
+  height: 3,
+  border: 'line',
+  tags: true,
+  content: 'Hello {bold}{green-fg}world{/green-fg}{/bold}!',
+})
+
+screen.append(box)
+screen.render()
+
+// $ node 04_getting_started.txt
+// Walk through this script

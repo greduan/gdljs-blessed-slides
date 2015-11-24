@@ -3,9 +3,10 @@
     "centre": "Making a CLI Twitter Client with Blessed"
   },
   "footer": {
-    "left": "@greeduan"
+    "left": "@greeduan",
+    "right": "https://github.com/greduan/gdljs-blessed-slides"
   },
   "fade": {
-    "delay": 0
+    "delay": 1
   }
 }

@@ -1,0 +1,9 @@
+centre vcentre
+% Blessed is a high-level interface library for Node.js
+
+Some quick points:
+
+* (n)curses-like
+* Performant
+* Designed for JS
+* Powerful

@@ -1,0 +1,17 @@
+centre vcentre
+
+% Some "good to know"s
+
+* Blessed uses factories for creating its elements.  Thus your program probably
+  should as well.
+
+* Every element can have a ~style~ property to control how it looks.
+
+* Every element has a ~_~, ~$~ or ~data~ property to store some of your
+  program's variables.
+
+* You can access and manipulate every element's ~width~, ~height~, ~top~ and
+  ~left~ properties, allowing you to manipulate its position on the screen.
+
+* You can manipulate an element's ~width~, ~height~ and position in relation to
+  its parent node or in relation to the screen.

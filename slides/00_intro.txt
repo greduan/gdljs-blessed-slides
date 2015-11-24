@@ -1,5 +1,4 @@
 centre vcentre
-
 ┌────────────────────────────────────┐
 │  ____  _                        _  │
 │ | __ )| | ___  ___ ___  ___  __| | │
@@ -10,3 +9,5 @@ centre vcentre
 └────────────────────────────────────┘
 
 % Making a CLI Twitter Client with Blessed
+
+The client's called ~notweet~ BTW.

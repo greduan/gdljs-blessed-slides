@@ -1,0 +1,10 @@
+centre vcentre
+% Let's quickly talk about Twitter
+
+* Twitter has a great API for clients
+
+* Twitter's authentication does not play nice with open source projects
+
+* notweet uses Twit~[0]~ for the API access
+
+~[0]~: https://github.com/ttezel/twit

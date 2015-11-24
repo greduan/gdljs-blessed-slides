@@ -8,8 +8,8 @@ raw terminal inputs.
 handles a lot of low-level stuff for you.
 
 ~Screen~: (Inherits from Node) The node that holds the nodes that will be
-rendered, could be thought of as a ~<body>~ tag, but there can be multiple of
-these and you can switch between which one you render.
+rendered, there can be multiple of these and you can switch between which one
+you render, although apending elements is different then.
 
 ~Element~: (Inherits from Node) The base element, i.e. box, text, etc.  Could be
 thought of as a ~<div>~, you can hide it, show it, color it, change its size

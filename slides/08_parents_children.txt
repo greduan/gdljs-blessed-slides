@@ -1,0 +1,17 @@
+centre vcentre
+% Parents and children
+
+* Every element can have children and must have a parent, before being rendered.
+
+* Some (not all) parent/children related methods:
+
+  * ~.append()~
+  * ~.remove()~
+  * ~.insert()~
+  * ~.detach()~
+
+* An elements parent can be accessed with ~element.parent~ and its children with
+  ~element.children~.  You can loop through the children!
+
+* The parent's size limits its children's size.  If parent is height 3 children
+  will not render beyond that height.

@@ -15,3 +15,5 @@ centre vcentre
 
 * You can manipulate an element's ~width~, ~height~ and position in relation to
   its parent node or in relation to the screen.
+
+* Every element has a ~screen~ property for convenience.

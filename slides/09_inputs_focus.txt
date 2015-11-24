@@ -1,0 +1,19 @@
+centre vcentre
+% Inputs and focus
+
+* Every element can have its own handler for mouse and keyboard inputs.
+
+* Use ~.on('mouse', ...)~ for mouse inputs.
+
+* Use ~.keys(...)~ for keyboard inputs.
+
+  * ~.keys(['C-c', 'q'], function ...)~
+  * ~.keys('C-c', function ...)~
+
+* Focus dictates what element will get to handle the inputs.
+
+Focus related stuff:
+
+  * Every element has ~.focus()~ function
+  * Every element has a ~.focused~ property
+  * Every element has focus related events, including ~blur~ (loss of focus)

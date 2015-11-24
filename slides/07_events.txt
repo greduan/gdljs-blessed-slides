@@ -9,6 +9,6 @@ There's too many to list so go check out the documentation for all of them.
 But here's an example:
 
     box.on('resize', function (data) {
-      box.setContent('YOU CLICKED ME!')
+      box.setContent('YOU RESIZED ME!')
       box.screen.render()
     })

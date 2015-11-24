@@ -1,0 +1,11 @@
+{
+  "header": {
+    "centre": "Making a CLI Twitter Client with Blessed"
+  },
+  "footer": {
+    "left": "@greeduan"
+  },
+  "fade": {
+    "delay": 0
+  }
+}

@@ -1,9 +1,11 @@
 centre vcentre
-
 % Blessed's base widgets
 
-~Node~: The base from which everything inherits, handles a lot of low-level
-stuff for you.
+Blessed offers a bunch of widgets to save you the trouble of dealing with the
+raw terminal inputs.
+
+~Node~: (Inherits from EventEmitter) The base from which everything inherits,
+handles a lot of low-level stuff for you.
 
 ~Screen~: (Inherits from Node) The node that holds the nodes that will be
 rendered, could be thought of as a ~<body>~ tag, but there can be multiple of

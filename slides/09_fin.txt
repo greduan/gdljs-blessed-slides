@@ -1,0 +1,19 @@
+centre vcentre
+
+% Thank you!
+
+Eduardo Lavaque
+@greeduan
+me@greduan.com
+
+% Questions!
+
+Feel free to ask them. :)
+
+% Links!
+
+* https://github.com/chjj/blessed
+* https://github.com/ttezel/twit
+* https://github.com/greduan/gdljs-blessed-slides
+* https://github.com/greduan/notweet
+* https://github.com/jclulow/vtmc

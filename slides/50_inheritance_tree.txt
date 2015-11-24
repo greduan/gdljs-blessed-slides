@@ -1,7 +1,0 @@
-centre vcentre
-% Blessed's Element Inheritance Tree
-
-Just showing this here cause it's useful for reference, but Blessed's built-in
-elements have an inheritance tree that goes as follows:
-
-A HUGE TREE HERE

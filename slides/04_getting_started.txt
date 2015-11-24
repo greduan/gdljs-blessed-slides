@@ -1,5 +1,4 @@
 // centre vcentre
-
 /*
 % Simple Blessed example
 */

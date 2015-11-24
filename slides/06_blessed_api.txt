@@ -1,6 +1,5 @@
 centre vcentre
-
-% Some "good to know"s
+% Some facts
 
 * Blessed uses factories for creating its elements.  Thus your program probably
   should as well.

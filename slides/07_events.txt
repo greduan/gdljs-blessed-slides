@@ -1,0 +1,13 @@
+centre vcentre
+% Widgets have events!
+
+Every node has a ~.on()~ method, as the Node widget inherits from the
+EventEmitter.
+
+There's too many to list so go check out the documentation for all of them.
+
+But here's an example:
+
+    box.on('resize', function (data) {
+      // Do something based on data, if you want
+    })
